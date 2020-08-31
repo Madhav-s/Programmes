@@ -1,6 +1,6 @@
   
 import java.util.Scanner;
-public class IncomeTax
+public class Tax
 {
     double income, tax;
     
@@ -32,7 +32,7 @@ public class IncomeTax
     
     public static void main ()
     {
-        IncomeTax obj = new IncomeTax ();
+        Tax obj = new Tax ();
         obj.accept ();
         obj.calculate ();
     }
