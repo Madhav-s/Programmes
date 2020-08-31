@@ -1,5 +1,5 @@
 import java.util.java;
-class series_9
+class series_8
 {
     int n;
     int s=0;
@@ -20,7 +20,7 @@ class series_9
     }
     public static void main()
     {
-        series_9 obj=new series_9();
+        series_8 obj=new series_8();
         obj.accept();
         obj.calc();
     }
