@@ -29,3 +29,4 @@ while(n!=0)
  }
  }
  
+/* suun lawde madarchod bahut bhari haga hai tuu...ache se program likh 
